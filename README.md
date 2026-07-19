@@ -10,7 +10,7 @@ An interactive web application was developed using **Streamlit**, allowing users
 
 ## 🖥️ Application Preview
 
-![Hybrid Book Recommendation System Interface](User_InterFace.png)
+![Hybrid Book Recommendation System Interface](user_Interface.png)
 
 ## 📚 Personalized Recommendation Results
 
